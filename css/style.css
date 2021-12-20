@@ -5,6 +5,17 @@ h2{color: #FF2E63}
 hr{color: #EAEAEA;
             border-style: none;
             border-top-style:dotted;
-            border-width: 15px;
-            width: 30%;}
+            border-width: 13px;
+            width: 15%;}
 p{color: #EAEAEA;}
+.pb{color: #252a34;}
+.tb {background-color: #00fffb;
+border:dashed ;
+}
+.tb2 {background-color: #FF2E63;
+    border:dashed ;
+    border-width: 6px;
+    color: #EAEAEA;
+    }
+#cw {background-color:  #6dfffd;}
+#yw {background-color:  #ff4372;}
